@@ -94,7 +94,7 @@ for nimi in õpilased:
         unikaalsed_nimed.append(nimi)
 print(unikaalsed_nimed)
 #2.3
-vanus=5,13,25,9,20,17,11,10,8,24
+vanus=[5,13,25,9,20,17,11,10,8,24]
 print(vanus)
 min_vanus=min(vanus)
 print(f"\nKõige noorem on {min_vanus}")
